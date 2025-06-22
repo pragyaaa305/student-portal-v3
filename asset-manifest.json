@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/student-portal-v3/static/css/main.de43a685.css",
+    "main.js": "/student-portal-v3/static/js/main.9d1bb517.js",
+    "static/js/453.58b3bdce.chunk.js": "/student-portal-v3/static/js/453.58b3bdce.chunk.js",
+    "index.html": "/student-portal-v3/index.html",
+    "static/media/sun.svg": "/student-portal-v3/static/media/sun.5b57e9e1aea3f141baee4a41282ce8a7.svg",
+    "static/media/moon.svg": "/student-portal-v3/static/media/moon.ac8174c7902117e5928290b9a7e5a2f3.svg",
+    "main.de43a685.css.map": "/student-portal-v3/static/css/main.de43a685.css.map",
+    "main.9d1bb517.js.map": "/student-portal-v3/static/js/main.9d1bb517.js.map",
+    "453.58b3bdce.chunk.js.map": "/student-portal-v3/static/js/453.58b3bdce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de43a685.css",
+    "static/js/main.9d1bb517.js"
+  ]
+}
