@@ -9,7 +9,8 @@ import Profile from './pages/profile';
 import Navbar from './components/Navbar'; // If not already imported
 
 function App() {
-  const isAuthenticated = localStorage.getItem('isAuthenticated');
+  localStorage.setItem("isAuthenticated", "true");
+  const isAuthenticated = localStorage.getItem('isAuthenticated') === "true";
   const [darkMode, setDarkMode] = useState(false);
 
   useEffect(() => {
