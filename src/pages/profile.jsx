@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import Navbar from "../components/Navbar";
 import { motion } from "framer-motion";
 
 const Profile = () => {
